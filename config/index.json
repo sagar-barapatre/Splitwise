@@ -1,0 +1,4 @@
+{
+  "dbUri": "mongodb+srv://sagar:riHMHVkF2tUUTqmw@cluster0.nxqpo.mongodb.net/WebDevWorkshop?retryWrites=true&w=majority",
+  "jwtSecret": "a secret phrase!!"
+}
